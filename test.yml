@@ -1,0 +1,20 @@
+config:
+  target: "http://localhost:3000"
+  phases:
+    - duration: 60
+      arrivalRate: 5
+      name: Warm up
+    - duration: 120
+      arrivalRate: 5
+      rampTo: 50
+      name: Ramp up load
+    - duration: 600
+      arrivalRate: 500
+      name: Sustained load
+  processor: "./processor.js" # imports a js function
+
+scenarios:
+  - name: "get questions and answers"
+    -flow:
+      - get:
+          url: "/qa/questions/?product_id={{ randomProductId() }}"

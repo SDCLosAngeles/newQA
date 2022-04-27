@@ -1,0 +1,101 @@
+id,product_id,body,date_written,asker_name,asker_email,reported,helpful
+1,1,"What fabric is the top made of?",1595884714409,"yankeelover","first.last@gmail.com",0,1
+2,1,"HEY THIS IS A WEIRD QUESTION!!!!?",1613888219613,"jbilas","first.last@gmail.com",1,4
+3,1,"Does this product run big or small?",1608535907083,"jbilas","first.last@gmail.com",0,8
+4,1,"How long does it last?",1594341317010,"funnygirl","first.last@gmail.com",0,6
+5,1,"Can I wash it?",1608855284662,"cleopatra","first.last@gmail.com",0,7
+6,1,"Is it noise cancelling?",1608855284662,"coolkid","first.last@gmail.com",1,19
+7,2,"Where is this product made?",1590428073460,"iluvcatz","first.last@gmail.com",0,0
+8,2,"Is this product sustainable?",1608855284662,"coolkid","first.last@gmail.com",1,5
+9,2,"I'm allergic to dye #17, does this product contain any?",1598026382276,"l33tgamer","first.last@gmail.com",0,6
+10,2,"Why is this product cheaper here than other sites?",1618982215909,"toofast","first.last@gmail.com",0,5
+11,2,"Where does this product ship from?",1608331206960,"jbilas","first.last@gmail.com",0,24
+12,2,"Does this product run big or small?",1601719701422,"iluvcatz","first.last@gmail.com",0,2
+13,2,"What fabric is the bottom made of?",1596386728488,"cleopatra","first.last@gmail.com",0,7
+14,2,"Where is this product made?",1601273260716,"jbilas","first.last@gmail.com",0,4
+15,2,"What fabric is the side made of?",1598948507460,"funnygirl","first.last@gmail.com",0,1
+16,3,"How long does it last?",1596386728488,"funnygirl","first.last@gmail.com",0,0
+17,3,"Does this product run big or small?",1598582805613,"coolkid","first.last@gmail.com",0,8
+18,3,"Can I wash it?",1595113831034,"jbilas","first.last@gmail.com",0,5
+19,3,"Why is this product cheaper here than other sites?",1590413602314,"jbilas","first.last@gmail.com",0,6
+20,3,"What fabric is the front made of?",1591561204712,"internethistorian","first.last@gmail.com",0,1
+21,3,"Is it noise cancelling?",1608732209572,"jbilas","first.last@gmail.com",1,4
+22,3,"Is this product sustainable?",1599322748526,"cleopatra","first.last@gmail.com",0,12
+23,3,"What fabric is the bottom made of?",1607644452194,"iluvcatz","first.last@gmail.com",0,6
+24,3,"Where does this product ship from?",1616735709377,"toofast","first.last@gmail.com",0,17
+25,3,"Where is this product made?",1605553423561,"thegrimreaker","first.last@gmail.com",0,9
+26,3,"I'm allergic to dye #17, does this product contain any?",1605317722861,"rhcp81","first.last@gmail.com",0,0
+27,3,"What fabric is the back made of?",1609186727092,"wildchild","first.last@gmail.com",0,5
+28,3,"Can I wash it?",1596386728488,"coolkid","first.last@cbs.com",1,6
+29,3,"What fabric is the top made of?",1608855284662,"wonderwoman","first.last@gmail.com",0,5
+30,3,"Why is this product cheaper here than other sites?",1591280970116,"l33tgamer","first.last@gmail.com",0,4
+31,4,"Where is this product made?",1616594302726,"cleopatra","first.last@gmail.com",0,2
+32,4,"What fabric is the bottom made of?",1602703617189,"iluvcatz","first.last@gmail.com",0,7
+33,4,"Why is this product cheaper here than other sites?",1591280970116,"toofast","first.last@gmail.com",0,4
+34,5,"Can I wash it?",1605553423561,"luaulover","first.last@cbs.com",0,1
+35,5,"Where is this product made?",1613151254613,"bballfan","first.last@gmail.com",0,0
+36,5,"What fabric is the top made of?",1588133112402,"funnygirl","first.last@gmail.com",0,1
+37,5,"Why is this product cheaper here than other sites?",1594501958231,"willsmith","first.last@gmail.com",0,4
+38,5,"How long does it last?",1615015457250,"funnygirl","first.last@gmail.com",0,2
+39,6,"Does this product run big or small?",1609186727092,"smithsmith","first.last@gmail.com",0,6
+40,6,"Why is this product cheaper here than other sites?",1595150944180,"toofast","first.last@gmail.com",0,7
+41,7,"What fabric is the top made of?",1599322748526,"coolkid","first.last@gmail.com",0,9
+42,7,"How long does it last?",1591746180054,"jbilas","first.last@gmail.com",1,0
+43,7,"Why is this product cheaper here than other sites?",1599322748526,"l33tgamer","first.last@gmail.com",0,5
+44,8,"What fabric is the top made of?",1598461277640,"mrmrs","first.last@gmail.com",0,6
+45,8,"Where is this product made?",1603066416741,"iluvcatz","first.last@aol.com",0,5
+46,8,"Can I wash it?",1598688833048,"cleopatra","first.last@aol.com",0,4
+47,8,"Why is this product cheaper here than other sites?",1616638689611,"h@ckerwhiz","first.last@cbs.com",0,2
+48,8,"How long does it last?",1605590074641,"l33tgamer","first.last@gmail.com",0,7
+49,8,"Does this product run big or small?",1604367985025,"jbilas","first.last@gmail.com",0,4
+50,9,"What fabric is the bottom made of?",1591280970116,"l33tgamer","first.last@gmail.com",0,1
+51,9,"Where is this product made?",1591280970116,"funnygirl","first.last@gmail.com",1,40
+52,10,"HI GUYS?",1600087204146,"iluvcatz","first.last@gmail.com",1,0
+53,10,"Where is this product made?",1598948507460,"funnygirl","first.last@gmail.com",0,15
+54,10,"What fabric is the top made of?",1594668510506,"l33tgamer","first.last@gmail.com",0,6
+55,12,"Quod porro velit numquam voluptates voluptatem necessitatibus officia.",1617444060652,"Camryn_Jacobi","Catherine_Stroman@yahoo.com",0,4
+56,12,"Error ut nemo ex alias nihil magni in.",1614820763022,"Helen63","Marcos50@hotmail.com",1,21
+57,12,"Aut velit officia voluptas.",1589368967056,"Eliane.Glover","Bethany49@hotmail.com",0,10
+58,12,"Accusamus qui ut iure voluptates.",1607852591752,"Cathy_Hills6","Constance17@hotmail.com",0,1
+59,12,"Fuga officiis consequatur minima.",1601586768593,"Maegan.Boyle74","Ariane_Hamill@yahoo.com",0,24
+60,12,"Consequatur ut esse blanditiis voluptas.",1605936227993,"Tamara.Reynolds31","Rosario37@hotmail.com",0,10
+61,13,"Deserunt ducimus dicta sit.",1618017974940,"Rosalee.Goldner","Elaina_Kulas31@yahoo.com",1,14
+62,13,"Id optio modi est omnis voluptatum explicabo magnam aliquid.",1597117493485,"Adrianna_Labadie62","Clair5@gmail.com",0,29
+63,13,"Veritatis error praesentium asperiores.",1610414845174,"Makenzie.Kautzer","Dakota32@hotmail.com",1,19
+64,14,"Fuga exercitationem quas eius vero iure laboriosam cupiditate aut voluptatem.",1615076765323,"Gussie.Boyle","Adriel7@yahoo.com",0,15
+65,15,"Aut ab ea quis sed.",1599106472393,"Gabrielle_Purdy47","Audra_Rempel65@hotmail.com",0,10
+66,15,"Molestiae qui nobis.",1615237366858,"Sean_Waters5","Bert.Mills87@yahoo.com",0,19
+67,15,"Qui ut aperiam quas aperiam ut sit est eligendi ut.",1611471881320,"Ruth.Wisoky","Nathaniel1@yahoo.com",0,0
+68,15,"Non labore enim.",1609424354356,"Leif.OConner","Rod.Frami@yahoo.com",0,16
+69,16,"Aut mollitia id autem quos sapiente sint et similique.",1591293251988,"Marguerite_Ward","Elyssa62@hotmail.com",0,14
+70,16,"Quibusdam possimus neque velit possimus nam.",1617446025476,"Carol94","Maci_Powlowski@gmail.com",0,11
+71,17,"Quo dolores enim.",1599908415537,"Nat89","Sammy77@gmail.com",0,5
+72,17,"Facere sint et possimus dolore mollitia sequi minus.",1606911476652,"Rylan_Quitzon15","Lyric_Swaniawski80@yahoo.com",0,8
+73,17,"In aspernatur est accusamus voluptatem tenetur laborum blanditiis.",1614240067487,"Cornell.Renner62","Ola23@gmail.com",0,4
+74,17,"Sed ea adipisci dolorem qui quas iure atque reiciendis alias.",1616936655477,"Jeanne92","Karl_Beer@yahoo.com",0,11
+75,18,"Est perspiciatis minima sunt quaerat est consectetur.",1596421798691,"Winfield.Ortiz","Jacey.Yundt@hotmail.com",0,2
+76,20,"Nobis dolore quia consequatur et cupiditate culpa eos quis.",1589250787192,"Kadin.Marks","Alec70@hotmail.com",0,8
+77,20,"Ducimus aut harum recusandae quibusdam aut facere.",1593379729157,"Jaime.Walker","Eden_Langosh@gmail.com",0,1
+78,20,"In aliquam aut dolorem voluptatem dolorem qui.",1606315752642,"Carissa75","Mohamed_Schuster@yahoo.com",0,25
+79,20,"Error quam consectetur quidem provident.",1604160632664,"Kali_Lebsack","Karlie4@hotmail.com",0,28
+80,21,"Placeat eius culpa.",1603994511263,"Gail_Brown13","Jamey_Emard13@yahoo.com",0,3
+81,21,"Sit deleniti dolorem suscipit voluptatem.",1614855953231,"Albert96","Elian35@hotmail.com",0,14
+82,22,"Beatae consectetur ut omnis omnis odio vero aliquid dolor temporibus.",1590338278753,"Madonna_Schumm4","Monique15@gmail.com",0,24
+83,23,"Necessitatibus qui nemo voluptatem.",1597966993661,"Hans92","Paolo_Shields@hotmail.com",0,5
+84,23,"Omnis unde repellat sunt assumenda voluptas facilis quasi velit.",1592434035547,"Bell_Waelchi29","Damian_Gerhold@hotmail.com",0,5
+85,23,"Molestiae officiis voluptatem eius minus dolor quas.",1606608094772,"Christopher_Kunze","Adolfo.Gerhold81@yahoo.com",0,21
+86,25,"Rerum nostrum adipisci numquam minus odit.",1609140454754,"Autumn.Daniel","Mckenzie97@yahoo.com",0,18
+87,25,"Eos molestias saepe est.",1588368060498,"Stefan_Ebert","Lonzo_Stiedemann@yahoo.com",0,14
+88,25,"Quia in voluptatibus a perferendis cupiditate earum.",1603794171739,"Minerva_Torp36","Janie81@gmail.com",0,10
+89,25,"Facere molestias repudiandae et voluptatem.",1612527046418,"Jadon22","Layne87@yahoo.com",0,0
+90,25,"Fugiat laborum fugit sed cupiditate laudantium.",1603305587049,"Ron52","Tomasa_Lehner6@gmail.com",0,29
+91,26,"Voluptatem aperiam sed quis accusamus voluptatem dicta voluptas perspiciatis.",1598913034427,"Josiane95","Al68@hotmail.com",0,2
+92,26,"Aspernatur rem magni cupiditate non maiores consectetur.",1613459700816,"Reanna38","Mac27@hotmail.com",0,6
+93,26,"Maiores quisquam vel.",1608974390215,"Brooke.Predovic85","Alba37@hotmail.com",0,18
+94,26,"Veritatis tempora perspiciatis consequatur veniam nobis.",1611775925234,"Nolan_Skiles5","Tatyana_Leffler1@yahoo.com",0,3
+95,27,"Incidunt suscipit temporibus quo rem eum id.",1614692835604,"Angeline.Corwin31","Elta.Koelpin12@hotmail.com",0,3
+96,28,"Vel nesciunt expedita.",1601334992350,"Braxton_Conn13","Dwight_Sauer63@hotmail.com",0,11
+97,29,"Quia ut laborum provident officia blanditiis enim nemo nihil.",1609337444749,"Jaylin66","Asia_Wolff@hotmail.com",1,11
+98,29,"Voluptas cupiditate qui consequatur eaque vel velit et modi.",1608274056562,"Angeline_Mayer","Greyson_Rempel@hotmail.com",0,3
+99,30,"Non cumque maiores qui qui.",1611043348898,"Stevie_Baumbach","Sigrid_Rodriguez@hotmail.com",0,24
+100,30,"Blanditiis dolore quis hic eaque provident repellat quis.",1603879519310,"Autumn58","Mathilde15@gmail.com",0,0
